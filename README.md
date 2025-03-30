@@ -13,19 +13,19 @@
 ## 📂 文件结构
 ```
 /movie-recommender
-│── recommender.py       # 主推荐系统代码
+│── 电影推荐(machine_learning).py.py       # 主推荐系统代码
 │── data/                # 数据集目录（需自行添加）
 │   ├── movies.xlsx      # 电影元数据
 │   └── ratings.xlsx     # 用户评分数据
 │── README.md            # 项目说明文档
-└── requirements.txt     # 依赖库列表
+
 ```
 
 ## 🔧 安装与运行
 
 ### 1. 环境配置
-```pychram
-```
+pychram
+
 
 ### 2. 数据准备
 将以下文件放入 `data/` 目录：
