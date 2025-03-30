@@ -24,13 +24,7 @@
 ## 🔧 安装与运行
 
 ### 1. 环境配置
-```bash
-# 克隆仓库
-git clone https://github.com/yourusername/movie-recommender.git
-cd movie-recommender
-
-# 安装依赖
-pip install -r requirements.txt
+```pychram
 ```
 
 ### 2. 数据准备
