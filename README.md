@@ -1,0 +1,2 @@
+# Movie_Recommend_System
+基于用户的协同过滤和内容推荐，使用机器学习的电影推荐系统
